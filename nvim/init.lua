@@ -1,0 +1,8 @@
+require("plugins")
+require("settings")
+require("keybindings")
+require("nvimcmp")
+require("lspcfg")
+require("lualinecfg")
+require("treesittercfg")
+require("etccfg")
